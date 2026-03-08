@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">👤 I am Abhyuday Pundir currently pursuing my B.Tech in CSE from<br>ABES Engineering College, Ghaziabad, India.<br><br>🧠 I am a very curious and passionate learner with high adaptability<br>skills.<br><br>👨‍🍳 I know some programming languages like C, C++, Python, GO and some frontend with HTML, CSS, Javascript also<br>have done some scripting in Lua for Roblox Games.<br><br>🌌 I also love to know about Universe and Cosmos and have a high<br>interest in knowing how universe works.<br><br>🔭 I have written a research paper of my own on Classification of blackholes<br>using RandomForestClassifier in Kaggle and Contributed in the<br>research paper for detecting Disease in Pea plants using ResNetV2.<br><br>📃 Research papers DOI links<br>- [Black Hole Classifier](https://www.ijraset.com/research-paper/machine-learning-classifier-for-black-hole-identification)<br>- [Pea Plant Leaf Disease Detection (DOI link)](https://doi.org/10.22214/ijraset.2025.73724)</p>
+<p align="left">👤 I am Abhyuday Pundir currently pursuing my B.Tech in CSE from<br>ABES Engineering College, Ghaziabad, India.<br>🧠 I am a very curious and passionate learner with high adaptability<br>skills.<br>👨‍🍳 I know some programming languages like C, C++, Python, GO and some frontend with HTML, CSS, Javascript also<br>have done some scripting in Lua for Roblox Games.<br>🌌 I also love to know about Universe and Cosmos and have a high<br>interest in knowing how universe works.<br>🔭 I have written a research paper of my own on Classification of blackholes<br>using RandomForestClassifier in Kaggle and Contributed in the<br>research paper for detecting Disease in Pea plants using ResNetV2.<br><br>📃 Research papers DOI links
+  
+  - [Black Hole Classifier](https://www.ijraset.com/research-paper/machine-learning-classifier-for-black-hole-identification)
+  - [Pea Plant Leaf Disease Detection (DOI link)](https://doi.org/10.22214/ijraset.2025.73724)</p>
 
 ###
 
