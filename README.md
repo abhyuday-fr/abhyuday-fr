@@ -3,8 +3,9 @@
 </div>
 
 ###
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/03552f64-7f84-4973-bc52-9bad49d32460">
+</div>
 
 ###
 
@@ -243,6 +244,11 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abhyuday-fr.abhyuday-fr&"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4c73c1d1-52b6-4fe3-bd15-cbc47df69ecd">
 </div>
 
 ###
