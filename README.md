@@ -13,12 +13,23 @@
 
 ###
 
-<p align="left">👤 I am Abhyuday Pundir currently pursuing my B.Tech in CSE from<br>ABES Engineering College, Ghaziabad, India.<br>🧠 I am a very curious and passionate learner with high adaptability<br>skills.<br>👨‍🍳 I know some programming languages like C, C++, Python, GO and some frontend with HTML, CSS, Javascript also<br>have done some scripting in Lua for Roblox Games.<br>🌌 I also love to know about Universe and Cosmos and have a high<br>interest in knowing how universe works.<br>🔭 I have written a research paper of my own on Classification of blackholes<br>using RandomForestClassifier in Kaggle and Contributed in the<br>research paper for detecting Disease in Pea plants using ResNetV2.<br><br>📃 Research papers DOI links
-  
-  - [Black Hole Classifier](https://www.ijraset.com/research-paper/machine-learning-classifier-for-black-hole-identification)
-  - [Pea Plant Leaf Disease Detection (DOI link)](https://doi.org/10.22214/ijraset.2025.73724)</p>
+### Hi there, I'm Abhyuday Pundir 👋
+**B.Tech CSE Student @ ABES Engineering College | Systems Learner & Space Enthusiast**
+
+I'm a computer science student who thrives at the intersection of low-level programming and high-level cosmic curiosity. Whether I'm diving into memory management, building backend tools, or applying machine learning to astrophysical data, I love figuring out how complex systems work from the ground up. 
+
+🚀 **What I'm about:**
+* **Systems & Backend:** Passionate about building and understanding tools at their core. I enjoy working with **C++, Go**, and **many other languages** to learn about interpreters, CLI tools, APIs, and high-speed data processing. 
+* **The Cosmos & AI:** Deeply fascinated by the universe. I've leveraged machine learning to author research on black hole classification and agricultural disease detection.
+* **Always Learning:** Exclusively driving Fedora Linux, optimizing my workflows, and constantly exploring new frameworks and architectures.
+* **Interests:** Systems engineering, performance profiling, open-source networking, machine learning, and applying devops concepts.
+
+📃 **Research & Publications:**
+  * [Black Hole Classifier](https://www.ijraset.com/research-paper/machine-learning-classifier-for-black-hole-identification)
+  * [Pea Plant Leaf Disease Detection (DOI link)](https://doi.org/10.22214/ijraset.2025.73724)
 
 ###
+---
 
 <h3 align="center">👨‍💻 Techs stacks I have worked with</h3>
 
