@@ -24,6 +24,9 @@ I'm a computer science student who thrives at the intersection of low-level prog
 * **Always Learning:** Exclusively driving Fedora Linux, optimizing my workflows, and constantly exploring new frameworks and architectures.
 * **Interests:** Systems engineering, performance profiling, open-source networking, machine learning, and applying devops concepts.
 
+🤗 **Check out my AI model that answers almost all cpp related questions correctly**
+* [Learncpp chat bot](https://huggingface.co/spaces/flawlessfr/Learncpp-Bot)
+
 📃 **Research & Publications:**
   * [Black Hole Classifier](https://www.ijraset.com/research-paper/machine-learning-classifier-for-black-hole-identification)
   * [Pea Plant Leaf Disease Detection (DOI link)](https://doi.org/10.22214/ijraset.2025.73724)
