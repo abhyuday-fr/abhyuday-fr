@@ -18,7 +18,7 @@
 
 I'm a computer science student who thrives at the intersection of low-level programming and high-level cosmic curiosity. Whether I'm diving into memory management, building backend tools, or applying machine learning to astrophysical data, I love figuring out how complex systems work from the ground up. 
 
-🚀 **What I'm about:**
+🔎 **What I'm about:**
 * **Systems & Backend:** Passionate about building and understanding tools at their core. I enjoy working with **C++, Go**, and **many other languages** to learn about interpreters, CLI tools, APIs, and high-speed data processing. 
 * **The Cosmos & AI:** Deeply fascinated by the universe. I've leveraged machine learning to author research on black hole classification and agricultural disease detection.
 * **Always Learning:** Exclusively driving Fedora Linux, optimizing my workflows, and constantly exploring new frameworks and architectures.
