@@ -13,7 +13,7 @@
 
 ###
 
-### Hi there, I'm Abhyuday Pundir 👋
+### Hello there, I'm Abhyuday Pundir 👋
 **B.Tech CSE Student @ ABES Engineering College | Systems Learner & Space Enthusiast**
 
 I'm a computer science student who thrives at the intersection of low-level programming and high-level cosmic curiosity. Whether I'm diving into memory management, building backend tools, or applying machine learning to astrophysical data, I love figuring out how complex systems work from the ground up. 
