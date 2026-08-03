@@ -26,7 +26,7 @@ Just an AI model I made for helping me out with some concepts mentioned in [lear
 
 * [RSS aggregator](https://github.com/abhyuday-fr/go-rss-aggregator)
 
-* [Sateliitle ground station simulator](https://github.com/abhyuday-fr/CRust)
+* [Satellite ground station simulator](https://github.com/abhyuday-fr/CRust)
 
 * [github actions for Flamegraphs](https://github.com/abhyuday-fr/GenFlames)
 
