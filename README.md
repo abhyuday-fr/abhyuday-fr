@@ -1,7 +1,7 @@
 # About Me
 I'm Abhyuday Pundir,<br>
 a computer science student currently pursuing my B.Tech from Abes Engineering College.<br>
-I like systems programmng, configuring my linux environment now and then and have a high curiosity in cosmos and how things work.
+I like systems programming, configuring my linux environment now and then and have a high curiosity in cosmos and how things work.
 
 Just an AI model I made for helping me out with some concepts mentioned in [learncpp](https://www.learncpp.com/) site. You can check it out below.<br>
 [Learncpp chat bot](https://huggingface.co/spaces/flawlessfr/Learncpp-Bot)
