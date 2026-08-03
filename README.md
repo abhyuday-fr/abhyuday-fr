@@ -6,6 +6,13 @@ I like systems programmng, configuring my linux environment now and then and hav
 Just an AI model I made for helping me out with some concepts mentioned in [learncpp](https://www.learncpp.com/) site. You can check it out below.<br>
 [Learncpp chat bot](https://huggingface.co/spaces/flawlessfr/Learncpp-Bot)
 
+## Skills
+* C
+* C++
+* Linux Systems Programming
+
+The above and more are visible in my projects below
+
 ## Projects I wanna show because all can't be pinned
 
 * [Systems level cpp projects](https://github.com/abhyuday-fr/Low-Level-CPP)
