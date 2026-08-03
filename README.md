@@ -1,10 +1,5 @@
-
-
 # About Me
-
-<h3>
-I'm Abhyuday Pundir
-</h3>
+I'm Abhyuday Pundir,<br>
 a computer science student currently pursuing my B.Tech from Abes Engineering College.<br>
 I like systems programmng, configuring my linux environment now and then and have a high curiosity in cosmos and how things work.
 
