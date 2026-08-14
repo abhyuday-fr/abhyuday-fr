@@ -34,6 +34,8 @@ The above and more are visible in my projects below
 
 * [Web grapher mirror](https://github.com/abhyuday-fr/web-grapher-mirror)
 
+* [EONET Watch](https://eonet-watch.onrender.com/)
+
 * [RSS aggregator](https://github.com/abhyuday-fr/go-rss-aggregator)
 
 * [Satellite ground station simulator](https://github.com/abhyuday-fr/CRust)
