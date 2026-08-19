@@ -10,7 +10,8 @@ Just an AI model I made for helping me out with some concepts mentioned in [lear
 
 ## Skills
 * C
-* C++
+* C++ (17, 20)
+* Go
 * Linux Systems Programming
 
 The above and more are visible in my projects below
