@@ -25,6 +25,8 @@ The above and more are visible in my projects below
 
 * [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level): Systems level programming and low-level + concurrency and parallelism based programmes. Includes a custom container runtime, open ports scanner, reinforcement learning model (made in C), lock-free and thread-safe data structures along with custom cpp features implementations.
 
+---
+
 ### Actual standalone projects
 * [Redis-cpp](https://github.com/abhyuday-fr/Redis): Redis-like storage with server and client implementations. Implemented intrusive data types to make a hashmap of my own from scratch for storing data.
 
