@@ -21,7 +21,7 @@ The above and more are visible in my projects below
 ## Projects I wanna show because all can't be pinned
 * [UNIX Systems Programming](https://github.com/abhyuday-fr/UNIX-Systems-Programming):Small but effective programs I made (still making) while I learn some Advanced Unix Systems Programming
 
-* [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level-CPP): Systems level programming and low-level + concurrency based programmes. Includes a custom container runtime, open ports scanner, Lock free data structures, thread-safe data structures, custom implementations of C++ STL and native features like std::vector, std::function, etc.
+* [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level): Systems level programming and low-level + concurrency based programmes. Includes a custom container runtime, open ports scanner, Lock free data structures, thread-safe data structures, custom implementations of C++ STL and native features like std::vector, std::function, etc.
 
 * [Redis-cpp](https://github.com/abhyuday-fr/Redis): Redis-like storage with server and client implementations. Implemented intrusive data types to make a hashmap of my own from scratch for storing data.
 
