@@ -19,10 +19,13 @@ Just an AI model I made for helping me out with some concepts mentioned in [lear
 The above and more are visible in my projects below
 
 ## Projects I wanna show because all can't be pinned
+
+### Projects I make while I learn stuff and showcase my engineering skills with them
 * [UNIX Systems Programming](https://github.com/abhyuday-fr/UNIX-Systems-Programming):Small but effective programs I made (still making) while I learn some Advanced Unix Systems Programming
 
-* [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level): Systems level programming and low-level + concurrency based programmes. Includes a custom container runtime, open ports scanner, Lock free data structures, thread-safe data structures, custom implementations of C++ STL and native features like std::vector, std::function, etc.
+* [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level): Systems level programming and low-level + concurrency and parallelism based programmes. Includes a custom container runtime, open ports scanner, reinforcement learning model (made in C), lock-free and thread-safe data structures along with custom cpp features implementations.
 
+### Actual standalone projects
 * [Redis-cpp](https://github.com/abhyuday-fr/Redis): Redis-like storage with server and client implementations. Implemented intrusive data types to make a hashmap of my own from scratch for storing data.
 
 * [Stack-based VM](https://github.com/abhyuday-fr/Stack-Virtual-Machine): A stack based CPU emulator with my custom assembler svasm
