@@ -5,7 +5,7 @@ I like systems programming, configuring my linux environment now and then and ha
 
 I write some blogs [here](https://abhyuday-fr.github.io/) where I post the interesting stuff I learn and try to apply in my projects.
 
-I'm also on [codeberg](https://codeberg.org/abhyuday-fr)
+I'm also on [codeberg](https://codeberg.org/abhyuday-fr) where you'll see backend/full-stack projects mainly
 
 Just an AI model I made for helping me out with some concepts mentioned in [learncpp](https://www.learncpp.com/) site. You can check it out below.<br>
 [Learncpp chat bot](https://huggingface.co/spaces/flawlessfr/Learncpp-Bot)
