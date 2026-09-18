@@ -22,22 +22,24 @@ The above and more are visible in my projects below
 ### Projects I make while I learn stuff and showcase my engineering skills with them
 * [UNIX Systems Programming](https://github.com/abhyuday-fr/UNIX-Systems-Programming):Small but effective programs I made (still making) while I learn some Advanced Unix Systems Programming
 
-* [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level): Systems level programming and low-level + concurrency and parallelism based programmes. Includes a custom container runtime, open ports scanner, reinforcement learning model (made in C), lock-free and thread-safe data structures along with custom cpp features implementations.
+* [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level): Systems level programming and low-level + concurrency and parallelism based programmes. Includes a custom container runtime, IPC Lockfree Ring-Buffer, reinforcement learning model (made in C), lock-free and thread-safe data structures along with custom cpp features implementations.
 
 ---
 
 ### Actual standalone projects
 * [Redis-cpp](https://github.com/abhyuday-fr/Redis): Redis-like storage with server and client implementations. Implemented intrusive data types to make a hashmap of my own from scratch for storing data.
 
-* [Stack-based VM](https://github.com/abhyuday-fr/Stack-Virtual-Machine): A stack based CPU emulator with my custom assembler svasm
+* [FlowPlusPlus ](https://github.com/abhyuday-fr/FlowPlusPlus): An interpreter that has visuals and interprets logic like a Flowchart
 
 * [Docker SDK for CPP](https://github.com/abhyuday-fr/docker-cpp): A Docker SDK for C++
-
-* [FlowPlusPlus ](https://github.com/abhyuday-fr/FlowPlusPlus): An interpreter that has visuals and interprets logic like a Flowchart
 
 * [Redline](https://github.com/abhyuday-fr/Redline): A cargo like build-system for C++ wrapping CMake
 
 * [Capture-Plus-Plus](https://github.com/abhyuday-fr/CapturePlusPlus): A network packets analyzing CLI tool made in C++
+
+* [Knocker](https://github.com/abhyuday-fr/Knocker) : It is the one who knocks on ports' door and check if they are open or not. Most interestingly engineered part is its concurrency.
+
+* [Stack-based VM](https://github.com/abhyuday-fr/Stack-Virtual-Machine): A stack based CPU emulator with my custom assembler svasm
 
 * [Web grapher mirror](https://github.com/abhyuday-fr/web-grapher-mirror): A crawler that crawls sites and make an obsidian-like graphs and nodes connecting its webpages
 
