@@ -41,6 +41,8 @@ The above and more are visible in my projects below
 
 * [Stack-based VM](https://github.com/abhyuday-fr/Stack-Virtual-Machine): A stack based CPU emulator with my custom assembler svasm
 
+* [MemDigger](https://github.com/abhyuday-fr/MemDigger): A MLC (Memory Latency Checker) made in C++ with pointer chasing and sequential read loops for idle only memory latency and bandwidth measurements, built with Redline, visualization with python script.
+
 * [Web grapher mirror](https://github.com/abhyuday-fr/web-grapher-mirror): A crawler that crawls sites and make an obsidian-like graphs and nodes connecting its webpages
 
 * [EONET Watch](https://github.com/abhyuday-fr/eonet-watch): A production-grade site with go backend and react frontend that utilizes NASA's EONET API to track live natural events around the globe
