@@ -19,13 +19,6 @@ The above and more are visible in my projects below
 
 ## Projects I wanna show because all can't be pinned
 
-### Projects I make while I learn stuff and showcase my engineering skills with them
-* [UNIX Systems Programming](https://github.com/abhyuday-fr/UNIX-Systems-Programming):Small but effective programs I made (still making) while I learn some Advanced Unix Systems Programming
-
-* [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level): Systems level programming and low-level + concurrency and parallelism based programmes. Includes a custom container runtime, IPC Lockfree Ring-Buffer, reinforcement learning model (made in C), lock-free and thread-safe data structures along with custom cpp features implementations.
-
----
-
 ### Actual standalone projects
 * [Redis-cpp](https://github.com/abhyuday-fr/Redis): Redis-like storage with server and client implementations. Implemented intrusive data types to make a hashmap of my own from scratch for storing data.
 
@@ -56,6 +49,11 @@ The above and more are visible in my projects below
 * [Paint in air](https://github.com/abhyuday-fr/Virtual-Painter): OpenCV with C++ project to draw at wherever you point your pen's tip in the video camera
 
 * [Some Python Projects](https://github.com/abhyuday-fr/Cool-Python-Projects): Some python projects like Ascii art generator and photo background remover.
+
+### Projects I make while I learn stuff and showcase my engineering skills with them
+* [UNIX Systems Programming](https://github.com/abhyuday-fr/UNIX-Systems-Programming):Small but effective programs I made (still making) while I learn some Advanced Unix Systems Programming
+
+* [Low level cpp projects](https://github.com/abhyuday-fr/Low-Level): Systems level programming and low-level + concurrency and parallelism based programmes. Includes a custom container runtime, IPC Lockfree Ring-Buffer, reinforcement learning model (made in C), lock-free and thread-safe data structures along with custom cpp features implementations.
 
 
 ---
